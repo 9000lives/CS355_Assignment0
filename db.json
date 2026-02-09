@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "M&M's Chocolate Candy",
+      "price": 3,
+      "itemType": "food",
+      "dicount":false
+    },
+    {
+      "id": 2,
+      "name": "Potato Chips",
+      "price": 4,
+      "itemType": "food",
+      "dicount":true
+    },
+    {
+      "id": 3,
+      "name": "Baby Wipes",
+      "price": 6,
+      "itemType": "cleaning",
+      "dicount":false
+    },
+    {
+      "id": 4,
+      "name": "Paper Towels",
+      "price": 8,
+      "itemType": "cleaning",
+      "dicount":false
+    },
+    {
+      "id": 5,
+      "name": "Shampoo",
+      "price": 7,
+      "itemType": "personalCare",
+      "dicount":true
+    },
+    {
+      "id": 6,
+      "name": "Toothpaste",
+      "price": 4,
+      "itemType": "personalCare",
+      "dicount":false
+    },
+    {
+      "id": 7,
+      "name": "Bread Loaf",
+      "price": 3,
+      "itemType": "food",
+      "dicount":false
+    },
+    {
+      "id": 8,
+      "name": "Laundry Detergent",
+      "price": 12,
+      "itemType": "cleaning",
+      "dicount":false
+    },
+    {
+      "id": 9,
+      "name": "Granola Bars",
+      "price": 5,
+      "itemType": "food",
+      "dicount":true
+    },
+    {
+      "id": 10,
+      "name": "Hand Soap",
+      "price": 3,
+      "itemType": "personalCare",
+      "dicount":true
+    }
+  ]
+}
